@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\views\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\views\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\wwwroot\\js\\pc-store-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\wwwroot\\js\\pc-store-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\wwwroot\\css\\pc-store-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\wwwroot\\css\\pc-store-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|c:\\users\\hp\\desktop\\final\\pcstorebackend\\pcstorebackend\\migrations\\20240906171255_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141F71E3-F505-4A9D-90BA-1E3ECF57B88B}|PcStoreBackend\\PcStoreBackend.csproj|solutionrelative:pcstorebackend\\migrations\\20240906171255_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PcStoreBackend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T18:02:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PcStoreBackend\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:56:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Views\\Admin\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Admin\\EditProduct.cshtml",
+              "RelativeToolTip": "PcStoreBackend\\Views\\Admin\\EditProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:16:44.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Views\\Admin\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Admin\\AddProduct.cshtml",
+              "RelativeToolTip": "PcStoreBackend\\Views\\Admin\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:16:08.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PcStoreBackend\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:11:39.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "PcStoreBackend\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:57:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "PcStoreBackend\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:15:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Data\\SeedData.cs",
+              "RelativeToolTip": "PcStoreBackend\\Data\\SeedData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:25:27.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Program.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Program.cs",
+              "RelativeToolTip": "PcStoreBackend\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:58:23.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PcStoreBackend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:55:28.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PcStoreBackend\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:20:46.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PcStoreBackend\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:42:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pc-store-styles.css",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\wwwroot\\css\\pc-store-styles.css",
+              "RelativeDocumentMoniker": "PcStoreBackend\\wwwroot\\css\\pc-store-styles.css",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\wwwroot\\css\\pc-store-styles.css",
+              "RelativeToolTip": "PcStoreBackend\\wwwroot\\css\\pc-store-styles.css",
+              "ViewState": "AQIAAFMCAAAAAAAAAAAAwHsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T17:47:46.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PcStoreBackend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T17:20:21.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pc-store-script.js",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\wwwroot\\js\\pc-store-script.js",
+              "RelativeDocumentMoniker": "PcStoreBackend\\wwwroot\\js\\pc-store-script.js",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\wwwroot\\js\\pc-store-script.js",
+              "RelativeToolTip": "PcStoreBackend\\wwwroot\\js\\pc-store-script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-06T17:48:35.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "PcStoreBackend\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "PcStoreBackend\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-06T17:54:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PcStoreBackend\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:29:33.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Models\\Product.cs",
+              "RelativeToolTip": "PcStoreBackend\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:56:19.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240906171255_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Migrations\\20240906171255_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PcStoreBackend\\Migrations\\20240906171255_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\Migrations\\20240906171255_InitialCreate.cs",
+              "RelativeToolTip": "PcStoreBackend\\Migrations\\20240906171255_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:12:55.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "PcStoreBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Final\\PcStoreBackend\\PcStoreBackend\\appsettings.json",
+              "RelativeToolTip": "PcStoreBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T16:57:36.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
